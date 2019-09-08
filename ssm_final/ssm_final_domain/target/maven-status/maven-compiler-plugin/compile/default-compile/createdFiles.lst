@@ -1,0 +1,8 @@
+com\cqupt\ssm\domain\Member.class
+com\cqupt\ssm\domain\Permission.class
+com\cqupt\ssm\domain\Orders.class
+com\cqupt\ssm\domain\Role.class
+com\cqupt\ssm\domain\SysLog.class
+com\cqupt\ssm\domain\Users.class
+com\cqupt\ssm\domain\Product.class
+com\cqupt\ssm\domain\Traveller.class

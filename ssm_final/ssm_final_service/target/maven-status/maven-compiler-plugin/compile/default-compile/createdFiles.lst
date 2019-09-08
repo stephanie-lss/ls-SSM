@@ -1,0 +1,12 @@
+com\cqupt\ssm\service\IUserService.class
+com\cqupt\ssm\service\impl\ProductServiceImpl.class
+com\cqupt\ssm\service\IRoleService.class
+com\cqupt\ssm\service\impl\RoleServiceImpl.class
+com\cqupt\ssm\service\impl\SysLogServiceImpl.class
+com\cqupt\ssm\service\ISysLogService.class
+com\cqupt\ssm\service\impl\UserServiceImpl.class
+com\cqupt\ssm\service\impl\OrdersServiceImpl.class
+com\cqupt\ssm\service\impl\PermissionServiceImpl.class
+com\cqupt\ssm\service\IOrdersService.class
+com\cqupt\ssm\service\IPermissionService.class
+com\cqupt\ssm\service\IProductService.class
